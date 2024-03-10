@@ -14,9 +14,9 @@ public class Main {
         // Determine the greeting message based on the time of day
         String greetingMessage;
         if (hour < 12) {
-            greetingMessage = "Good morning, " + studentName + ", Welcome to COMP367!";
+            greetingMessage = "Good morning!, " + studentName + ", Welcome to COMP367!";
         } else {
-            greetingMessage = "Good afternoon, " + studentName + ", Welcome to COMP367!";
+            greetingMessage = "Good afternoon!, " + studentName + ", Welcome to COMP367!";
         }
 
         // Display the greeting message
